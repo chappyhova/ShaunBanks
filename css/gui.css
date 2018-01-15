@@ -1,0 +1,17 @@
+h1 {
+    color: darkred;
+}
+p {
+    color: blue
+}
+body {
+    text-align: center
+}
+li {
+    display: inline;
+    padding: 10em;
+}
+a:link, a:visited, a:active  {
+    text-decoration: none;
+    color: inherit;
+}
