@@ -3,15 +3,28 @@
     <head>
         <title>Shaun Banks Building</title>
         <link rel="stylesheet" type="text/css" href="css/gui.css"/>
+        <link rel="stylesheet" href="magnific-popup/magnific-popup.css"/>
+        
         <h1><a href="index.html"><img src="images/sblogo.png"></a></h1>
     </head>
     <body>
-        
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="gallery.html">Gallery</a></li>
             <li><a href="contact.html">Contact</a></li>
             <li><a href="about.html">About</a></li>
         </ul>
+        <a class = "extension-interior" href="images/extension-interior-large.jpg">
+        <footer id="page-footer">
+            <script src="magnific-popup/jquery.magnific-popup.js"></script>
+            <script>
+                $(document).ready(function() {
+                    $('.extension-interior').magnificPopup({
+                        type: 'image'
+                    });
+                });
+            
+            </script>
+        </footer>
     </body>  
 </html>
