@@ -1,19 +1,55 @@
-h1 {
-    color: darkred;
-}
-p {
-    color: blue
-}
 body {
     text-align: center
 }
+
+body * > {
+    text-align: left;
+}
 li {
     display: inline;
-    padding: 10em;
+    padding: 5%;
+    font-size: 2vw;
+    font-family: 'Supermercado One', cursive;
 }
 a:link, a:visited, a:active  {
     text-decoration: none;
     color: inherit;
 }
+.pswp__caption__center{text-align: center;}
+
+div.container figure{
+    text-align: center;
+    display: inline-block;
+
+}
+div.container img {
+    max-width: 500px;
+    max-height: 400px;
+    box-shadow: 5px 5px 2px grey;
+
+}
+
+div.form {
+    display: block;
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+textarea {
+    width: 500px;
+}
+
+input[type="text"] {
+    width: 500px;
+}
+
+
+
 
 
