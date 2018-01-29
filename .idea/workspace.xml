@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
+<<<<<<< HEAD
     <bookmark url="file://$PROJECT_DIR$/gallery.html" line="165" />
   </component>
   <component name="ChangeListManager">
@@ -26,6 +27,12 @@
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/scripts/shaun-banks.js" afterPath="" />
     </list>
+=======
+    <bookmark url="file://$PROJECT_DIR$/gallery.html" line="31" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deb2bb69-a14e-4fdf-8b9e-d992ae569c27" name="Default" comment="" />
+>>>>>>> master
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,7 +52,11 @@
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
+<<<<<<< HEAD
               <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+=======
+              <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+>>>>>>> master
               <folding />
             </state>
           </provider>
@@ -54,8 +65,13 @@
       <file leaf-file-name="gui.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/gui.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="816">
               <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+=======
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> master
               <folding />
             </state>
           </provider>
@@ -90,8 +106,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="471" />
     <option name="y" value="54" />
+=======
+    <option name="x" value="614" />
+    <option name="y" value="-13" />
+>>>>>>> master
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -139,6 +160,34 @@
               <item name="ShaunBanks" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShaunBanks" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="ShaunBanks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShaunBanks" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShaunBanks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ShaunBanks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="@types" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ShaunBanks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="@types" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShaunBanks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jQuery-2.0.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+>>>>>>> master
           </expand>
           <select />
         </subPane>
@@ -152,7 +201,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js.eslint.eslintPackage" value="" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+=======
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+>>>>>>> master
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -254,11 +307,16 @@
       <workItem from="1516101442593" duration="149000" />
       <workItem from="1516101646294" duration="18309000" />
       <workItem from="1516196825362" duration="11544000" />
+<<<<<<< HEAD
       <workItem from="1517240330824" duration="46000" />
+=======
+      <workItem from="1517240330824" duration="1327000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="31144000" />
   </component>
   <component name="ToolWindowManager">
@@ -266,6 +324,14 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13515624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <option name="totallyTimeSpent" value="32425000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13515624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> master
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -374,8 +440,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/gui.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="816">
           <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+=======
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> master
           <folding />
         </state>
       </provider>
@@ -383,7 +454,11 @@
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
+<<<<<<< HEAD
           <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+=======
+          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+>>>>>>> master
           <folding />
         </state>
       </provider>
