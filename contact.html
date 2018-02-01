@@ -6,6 +6,9 @@
         <!-- Importing Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Supermercado+One" rel="stylesheet">
         <h1><a href="index.html"><img src="images/sblogo.png"></a></h1>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=3.0.1"></script>
+        <script type="text/javascript" src="js/submit-form.js"></script>
+
     </head>
     <body>
         <ul>
@@ -14,24 +17,15 @@
             <li><a href="contact.html">Contact</a></li>
             <li><a href="about.html">About</a></li>
         </ul>
-        <div class="form">
-            <form action="contact.html">
-                <p>Name: </br>
-                    <input type="text" name="name" maxlength="30"/>
-                </p>
-                <p>Email Address: </br>
-                    <input type="text" name="email" maxlength="50"/>
-                </p>
-                <p>Telephone Number: </br>
-                    <input type="text" name="phoneNumber" maxlength="16"/>
-                </p>
-                <p>Brief Outline of Work Required: </br>
-                    <textarea name="description" cols="60" rows="8">
-                </textarea>
-                </p>
-                <input type="submit" name="submit" value="Submit"/>
-            </form>
-        </div>
-
+        <form method="post" id="contact">
+            <div class="contact_form" id="main">
+                <p>Name:</br><input type="text" id="name" name="name" /></p>
+                <p>Email:</br><input type="text" id="email" name="email" /></p>
+                <p>Phone:</br><input type="text" id="phoneNumber" name="phoneNumber" /></p>
+                <p>Brief Outline of Required Work:</br><textarea name="workDescription" id="workDescription"></textarea></p>
+                <input type="submit" id="submit" value="Submit"/>
+            </div>
+        </form>
+        <script src="js/submit-event.js"></script>
     </body>
 </html>
